@@ -36,7 +36,7 @@ npm run build
 3. `main` 브랜치에 push 하면 `.github/workflows/deploy-pages.yml`이 실행됩니다.
 4. 배포가 끝나면 GitHub Pages 주소에서 사이트를 확인할 수 있습니다.
 
-현재 `vite.config.js`의 `base`는 `/hotpot-simulator/`로 설정되어 있습니다. 저장소 이름이 다르면 이 값을 함께 바꿔야 합니다.
+현재 `vite.config.js`의 `base`는 `/hotpot_tester/`로 설정되어 있습니다. 저장소 이름이 다르면 이 값을 함께 바꿔야 합니다.
 
 ## 폴더 구조
 

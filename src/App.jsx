@@ -124,7 +124,7 @@ function App() {
   );
   const siteUrl = useMemo(() => {
     if (typeof window === 'undefined') {
-      return 'https://alltimesuho.github.io/hotpot-simulator/';
+      return 'https://conandoil13-sketch.github.io/hotpot_tester/';
     }
 
     return window.location.href;
