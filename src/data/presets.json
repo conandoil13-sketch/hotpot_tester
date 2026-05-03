@@ -1,0 +1,114 @@
+[
+  {
+    "id": "starter-pick",
+    "name": "입문자 추천",
+    "description": "마라 부담은 낮추고 무난하게 즐기는 첫 훠궈 조합",
+    "tags": ["순한 시작", "무난픽", "초보 환영"],
+    "items": [
+      { "menuId": "tang-tomato-tang-2", "quantity": 1 },
+      { "menuId": "tang-4", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 1 },
+      { "menuId": "bok-choy-100g", "quantity": 1 },
+      { "menuId": "napa-cabbage-150g", "quantity": 1 },
+      { "menuId": "glass-noodle-100g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "budget-survival",
+    "name": "가성비 생존",
+    "description": "지갑은 지키고 기본 만족도는 챙기는 절약형 조합",
+    "tags": ["절약 모드", "실속형", "소박한 만족"],
+    "items": [
+      { "menuId": "tang-6", "quantity": 1 },
+      { "menuId": "mushroom-125g", "quantity": 1 },
+      { "menuId": "napa-cabbage-150g", "quantity": 1 },
+      { "menuId": "glass-noodle-100g", "quantity": 1 },
+      { "menuId": "noodle-100g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "meat-only",
+    "name": "고기 몰빵",
+    "description": "국물은 배경이고 진짜 주인공은 고기라는 사람용",
+    "tags": ["단백질 폭주", "육식파", "고기 우선"],
+    "items": [
+      { "menuId": "tang-mala-tang-2", "quantity": 1 },
+      { "menuId": "tang-4", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 2 },
+      { "menuId": "150g", "quantity": 1 },
+      { "menuId": "200g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" },
+      { "menuId": "1-5", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "mala-addict",
+    "name": "마라 중독",
+    "description": "마라 국물 중심으로 매운 만족감을 최대한 끌어올리는 조합",
+    "tags": ["마라 러버", "강한 자극", "국물 집착"],
+    "items": [
+      { "menuId": "tang-mala-tang", "quantity": 1 },
+      { "menuId": "tang-mala", "quantity": 1 },
+      { "menuId": "tang-tang-3", "quantity": 1 },
+      { "menuId": "tang-2", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 1 },
+      { "menuId": "shrimp-meatball-100g", "quantity": 1 },
+      { "menuId": "glass-noodle-100g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" },
+      { "menuId": "1-5", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "veggie-act",
+    "name": "야채 먹는 척",
+    "description": "야채도 챙기지만 결국 다른 것도 잔뜩 담게 되는 조합",
+    "tags": ["양심 챙김", "균형인 척", "야채 알리바이"],
+    "items": [
+      { "menuId": "tang-tomato-tang-2", "quantity": 1 },
+      { "menuId": "tang-4", "quantity": 1 },
+      { "menuId": "bok-choy-100g", "quantity": 1 },
+      { "menuId": "napa-cabbage-150g", "quantity": 1 },
+      { "menuId": "mushroom-1", "quantity": 1 },
+      { "menuId": "tofu-100g", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "date-safe",
+    "name": "데이트 무난픽",
+    "description": "호불호 적고 분위기 깨지지 않는 안정적인 선택지",
+    "tags": ["호감도 안전", "적당한 화려함", "실패 확률 낮음"],
+    "items": [
+      { "menuId": "tang-tomato-tang-2", "quantity": 1 },
+      { "menuId": "tang-4", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 1 },
+      { "menuId": "shrimp-5", "quantity": 1 },
+      { "menuId": "bok-choy-100g", "quantity": 1 },
+      { "menuId": "glass-noodle-100g", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" },
+      { "menuId": "1-5", "quantityType": "perPerson" }
+    ]
+  },
+  {
+    "id": "friends-chaos",
+    "name": "친구들이랑 폭주",
+    "description": "고기, 사이드, 국물, 음료까지 다 같이 달려보는 과감한 조합",
+    "tags": ["단체전", "과소비 경계", "행복 총공세"],
+    "items": [
+      { "menuId": "tang-mala-tang", "quantity": 1 },
+      { "menuId": "tang-tomato-tang", "quantity": 1 },
+      { "menuId": "tang-tang-3", "quantity": 1 },
+      { "menuId": "tang-2", "quantity": 1 },
+      { "menuId": "beef-belly-150g", "quantity": 2 },
+      { "menuId": "200g", "quantity": 1 },
+      { "menuId": "shrimp-meatball-100g", "quantity": 1 },
+      { "menuId": "rice", "quantity": 1 },
+      { "menuId": "fried-4", "quantity": 1 },
+      { "menuId": "1-4", "quantityType": "perPerson" },
+      { "menuId": "1-5", "quantityType": "perPerson" }
+    ]
+  }
+]

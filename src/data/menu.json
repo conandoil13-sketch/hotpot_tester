@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "beef-180g",
+    "name": "특제소고기(180g)",
+    "category": "meat",
+    "price": 9900,
+    "priceText": "9,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "noodle-1",
+    "name": "쿵푸면 (1인분)",
+    "category": "tofu-noodle",
+    "price": 2900,
+    "priceText": "2,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "shrimp-meatball-100g",
+    "name": "새우완자(100g)",
+    "category": "seafood",
+    "price": 9900,
+    "priceText": "9,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "shrimp-meatball-100g-2",
+    "name": "날치알새우완자(100g)",
+    "category": "seafood",
+    "price": 10900,
+    "priceText": "10,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g",
+    "name": "특제 천엽(100g)",
+    "category": "meat",
+    "price": 7500,
+    "priceText": "7,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "180g",
+    "name": "팡가시우메기살(180g)",
+    "category": "seafood",
+    "price": 6900,
+    "priceText": "6,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g",
+    "name": "닭다리고기(150g)",
+    "category": "meat",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "meatball-4",
+    "name": "완자모듬(4개)",
+    "category": "seafood",
+    "price": 5100,
+    "priceText": "5,100원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-2",
+    "name": "하이디라오 특제천엽(100g)",
+    "category": "meat",
+    "price": 4900,
+    "priceText": "4,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "fish-cake-4",
+    "name": "어묵(4개)",
+    "category": "seafood",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-3",
+    "name": "하이디라오 황후(100g)",
+    "category": "meat",
+    "price": 6100,
+    "priceText": "6,100원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-4",
+    "name": "오리창자(100g)",
+    "category": "meat",
+    "price": 6900,
+    "priceText": "6,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "lamb-150g",
+    "name": "특제양고기(150g)",
+    "category": "meat",
+    "price": 6900,
+    "priceText": "6,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "beef-belly-150g",
+    "name": "우삼겹(150g)",
+    "category": "meat",
+    "price": 14500,
+    "priceText": "14,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-2",
+    "name": "돈 목살(150g)",
+    "category": "meat",
+    "price": 15900,
+    "priceText": "15,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "pork-shoulder-150g",
+    "name": "소목심살(150g)",
+    "category": "meat",
+    "price": 14500,
+    "priceText": "14,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-3",
+    "name": "특선 소갈비살(150g)",
+    "category": "meat",
+    "price": 22000,
+    "priceText": "22,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "pork-shoulder-a-200g",
+    "name": "한우목심A++(200g)",
+    "category": "meat",
+    "price": 35000,
+    "priceText": "35,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "120g",
+    "name": "특제우설(120g)",
+    "category": "meat",
+    "price": 17900,
+    "priceText": "17,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-4",
+    "name": "양어깨살(150g)",
+    "category": "meat",
+    "price": 14900,
+    "priceText": "14,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "200g",
+    "name": "양갈비살(200g)",
+    "category": "meat",
+    "price": 15900,
+    "priceText": "15,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-5",
+    "name": "돈 삼겹살(150g)",
+    "category": "meat",
+    "price": 13900,
+    "priceText": "13,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "seafood-1",
+    "name": "해산물 모듬(1인분)",
+    "category": "seafood",
+    "price": 35000,
+    "priceText": "35,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "1",
+    "name": "전복(1개)",
+    "category": "seafood",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "meatball-125g",
+    "name": "소고시완자(125g)",
+    "category": "seafood",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "shrimp-meatball-100g-3",
+    "name": "갑오징어새우완자(100g)",
+    "category": "seafood",
+    "price": 9900,
+    "priceText": "9,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "120g-2",
+    "name": "소스지(120g)",
+    "category": "meat",
+    "price": 15900,
+    "priceText": "15,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "6",
+    "name": "루닭발(6개)",
+    "category": "meat",
+    "price": 6900,
+    "priceText": "6,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "6-2",
+    "name": "오리피(6개)",
+    "category": "tofu-noodle",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "7",
+    "name": "광동식 소시지(7개)",
+    "category": "meat",
+    "price": 5100,
+    "priceText": "5,100원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "6-3",
+    "name": "햄(6개)",
+    "category": "meat",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-6",
+    "name": "닭똥집(150g)",
+    "category": "meat",
+    "price": 5500,
+    "priceText": "5,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "12",
+    "name": "메추리알(12개)",
+    "category": "side",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "14",
+    "name": "비엔나 소세지(14개)",
+    "category": "meat",
+    "price": 3300,
+    "priceText": "3,300원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "5",
+    "name": "게맛살(5개)",
+    "category": "seafood",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-10",
+    "name": "피쉬두부(10개)",
+    "category": "tofu-noodle",
+    "price": 4900,
+    "priceText": "4,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "hotpot-1",
+    "name": "훠궈추천메뉴모듬(1인분)",
+    "category": "soup",
+    "price": 4900,
+    "priceText": "4,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-5",
+    "name": "돼지곱창(100g)",
+    "category": "meat",
+    "price": 6500,
+    "priceText": "6,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "beef-200g",
+    "name": "천우（天佑）양념소고기（200g）",
+    "category": "meat",
+    "price": 12900,
+    "priceText": "12,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-6",
+    "name": "소깐양(100g)",
+    "category": "meat",
+    "price": 6900,
+    "priceText": "6,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "noodle-100g",
+    "name": "생면(100g)",
+    "category": "tofu-noodle",
+    "price": 1500,
+    "priceText": "1,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-1",
+    "name": "두부모듬(1인분)",
+    "category": "tofu-noodle",
+    "price": 5200,
+    "priceText": "5,200원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "noodle-tofu-120g",
+    "name": "목면두부(120g)",
+    "category": "tofu-noodle",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "50g",
+    "name": "유부피(50g)",
+    "category": "tofu-noodle",
+    "price": 2900,
+    "priceText": "2,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "8",
+    "name": "유부(8개)",
+    "category": "tofu-noodle",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-6",
+    "name": "냉동두부(6개)",
+    "category": "tofu-noodle",
+    "price": 2500,
+    "priceText": "2,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-100g",
+    "name": "두부피(100g)",
+    "category": "tofu-noodle",
+    "price": 4200,
+    "priceText": "4,200원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-10-2",
+    "name": "말랑두부(10개)",
+    "category": "tofu-noodle",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "fried-4",
+    "name": "두유피튀김(4개)",
+    "category": "tofu-noodle",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tofu-125g",
+    "name": "말린두부(125g)",
+    "category": "tofu-noodle",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "glass-noodle-1",
+    "name": "당면모듬(1인분)",
+    "category": "tofu-noodle",
+    "price": 4900,
+    "priceText": "4,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "glass-noodle-100g",
+    "name": "고구마당면(100g)",
+    "category": "tofu-noodle",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-7",
+    "name": "분모자 옥수수맛(150g)",
+    "category": "vegetable",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "8-2",
+    "name": "곤약말이(8개)",
+    "category": "tofu-noodle",
+    "price": 2900,
+    "priceText": "2,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "glass-noodle-100g-2",
+    "name": "감자당면(100g)",
+    "category": "tofu-noodle",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "1-2",
+    "name": "야채모듬(1인분)",
+    "category": "vegetable",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-7",
+    "name": "미나리(100g)",
+    "category": "vegetable",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "napa-cabbage-100g",
+    "name": "얼걸이배추(100g)",
+    "category": "vegetable",
+    "price": 2500,
+    "priceText": "2,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "napa-cabbage-150g",
+    "name": "배추(150g)",
+    "category": "vegetable",
+    "price": 4200,
+    "priceText": "4,200원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "bok-choy-100g",
+    "name": "청경채(100g)",
+    "category": "vegetable",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "75g",
+    "name": "고수(75g)",
+    "category": "vegetable",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "125g",
+    "name": "폭포감자채(125g)",
+    "category": "vegetable",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "75g-2",
+    "name": "궁채(75g)",
+    "category": "vegetable",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "bean-sprout-100g",
+    "name": "숙주(100g)",
+    "category": "vegetable",
+    "price": 2100,
+    "priceText": "2,100원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-8",
+    "name": "연근(150g)",
+    "category": "vegetable",
+    "price": 3000,
+    "priceText": "3,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "125g-2",
+    "name": "다시마(125g)",
+    "category": "vegetable",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "75g-3",
+    "name": "죽순(75g)",
+    "category": "vegetable",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "5-2",
+    "name": "옥수수(5개)",
+    "category": "vegetable",
+    "price": 2900,
+    "priceText": "2,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "100g-8",
+    "name": "감자(100g)",
+    "category": "vegetable",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "mushroom-1",
+    "name": "버섯모듬(1인분)",
+    "category": "vegetable",
+    "price": 5500,
+    "priceText": "5,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "mushroom-100g",
+    "name": "목이버섯(100g)",
+    "category": "vegetable",
+    "price": 3200,
+    "priceText": "3,200원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "mushroom-125g",
+    "name": "팽이버섯(125g)",
+    "category": "vegetable",
+    "price": 2500,
+    "priceText": "2,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "fried-1",
+    "name": "돼지고기튀김(1인분)",
+    "category": "side",
+    "price": 5700,
+    "priceText": "5,700원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "4",
+    "name": "유탸오(4개)",
+    "category": "side",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "fried-4-2",
+    "name": "꽃빵튀김(4개)",
+    "category": "side",
+    "price": 3900,
+    "priceText": "3,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "4-2",
+    "name": "참깨볼(4개)",
+    "category": "side",
+    "price": 2500,
+    "priceText": "2,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "4-3",
+    "name": "흑당유심고(4개)",
+    "category": "side",
+    "price": 4500,
+    "priceText": "4,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "150g-9",
+    "name": "초고추닭발(뼈없는닭발)(150g)",
+    "category": "meat",
+    "price": 5900,
+    "priceText": "5,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "mala-1",
+    "name": "마라닭(1인분)",
+    "category": "soup",
+    "price": 8900,
+    "priceText": "8,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "noodle-1-2",
+    "name": "탄탄면(1인분)",
+    "category": "tofu-noodle",
+    "price": 4000,
+    "priceText": "4,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "rice-1",
+    "name": "루로우판(대만식 제육덮밥)(1인분)",
+    "category": "side",
+    "price": 3500,
+    "priceText": "3,500원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "8-3",
+    "name": "만두(8개)",
+    "category": "side",
+    "price": 2900,
+    "priceText": "2,900원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tang",
+    "name": "산타탕후루",
+    "category": "soup",
+    "price": 3000,
+    "priceText": "3,000원",
+    "sourceUrl": "https://pcmap.place.naver.com/restaurant/1583520034/menu/list?from=map&fromPanelNum=1&additionalHeight=76&locale=ko&svcName=map_pcv5",
+    "crawledAt": "2026-05-03T20:18:38.375Z"
+  },
+  {
+    "id": "tang-mala-tang",
+    "name": "네가지탕 옵션 - 우유마라탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang",
+    "name": "네가지탕 옵션 - 후추탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mushroom-tang",
+    "name": "네가지탕 옵션 - 버섯탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-2",
+    "name": "네가지탕 옵션 - 똠양꿍탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-2",
+    "name": "네가지탕 옵션 - 소기름",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mala",
+    "name": "네가지탕 옵션 - 청유마라",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-3",
+    "name": "네가지탕 옵션 - 삼선탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tomato-tang",
+    "name": "네가지탕 옵션 - 토마토탕",
+    "category": "soup",
+    "price": 9000,
+    "priceText": "9,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-3",
+    "name": "네가지탕 옵션 - 맹물",
+    "category": "soup",
+    "price": 0,
+    "priceText": "0",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mala-tang-2",
+    "name": "두가지탕 옵션 - 우유마라탕",
+    "category": "soup",
+    "price": 13000,
+    "priceText": "13,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-4",
+    "name": "두가지탕 옵션 - 후추탕",
+    "category": "soup",
+    "price": 16000,
+    "priceText": "16,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mushroom-tang-2",
+    "name": "두가지탕 옵션 - 버섯탕",
+    "category": "soup",
+    "price": 10000,
+    "priceText": "10,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-5",
+    "name": "두가지탕 옵션 - 똠양꿍탕",
+    "category": "soup",
+    "price": 13000,
+    "priceText": "13,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-4",
+    "name": "두가지탕 옵션 - 소기름",
+    "category": "soup",
+    "price": 13000,
+    "priceText": "13,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mala-2",
+    "name": "두가지탕 옵션 - 청유마라",
+    "category": "soup",
+    "price": 13000,
+    "priceText": "13,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-6",
+    "name": "두가지탕 옵션 - 삼선탕",
+    "category": "soup",
+    "price": 8000,
+    "priceText": "8,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tomato-tang-2",
+    "name": "두가지탕 옵션 - 토마토탕",
+    "category": "soup",
+    "price": 13000,
+    "priceText": "13,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-5",
+    "name": "두가지탕 옵션 - 맹물",
+    "category": "soup",
+    "price": 0,
+    "priceText": "0",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mala-tang-3",
+    "name": "한가지탕 옵션 - 우유마라탕",
+    "category": "soup",
+    "price": 24000,
+    "priceText": "24,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-7",
+    "name": "한가지탕 옵션 - 후추탕",
+    "category": "soup",
+    "price": 16000,
+    "priceText": "16,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mushroom-tang-3",
+    "name": "한가지탕 옵션 - 버섯탕",
+    "category": "soup",
+    "price": 18000,
+    "priceText": "18,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-8",
+    "name": "한가지탕 옵션 - 똠양꿍탕",
+    "category": "soup",
+    "price": 24000,
+    "priceText": "24,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-6",
+    "name": "한가지탕 옵션 - 소기름",
+    "category": "soup",
+    "price": 24000,
+    "priceText": "24,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-mala-3",
+    "name": "한가지탕 옵션 - 청유마라",
+    "category": "soup",
+    "price": 24000,
+    "priceText": "24,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tang-9",
+    "name": "한가지탕 옵션 - 삼선탕",
+    "category": "soup",
+    "price": 15000,
+    "priceText": "15,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-tomato-tang-3",
+    "name": "한가지탕 옵션 - 토마토탕",
+    "category": "soup",
+    "price": 24000,
+    "priceText": "24,000",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "tang-7",
+    "name": "한가지탕 옵션 - 맹물",
+    "category": "soup",
+    "price": 0,
+    "priceText": "0",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "1-3",
+    "name": "소스바(1인당)",
+    "category": "side",
+    "price": 3500,
+    "priceText": "3,500",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "1-4",
+    "name": "음료 무한리필(1인당)",
+    "category": "side",
+    "price": 2500,
+    "priceText": "2,500",
+    "sourceUrl": "manual",
+    "crawledAt": "2026-05-04T00:00:00.000Z"
+  }
+]

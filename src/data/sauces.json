@@ -1,0 +1,1884 @@
+[
+  {
+    "id": "xQFmLdcLikOIV9eu6NiN",
+    "slug": "건희-소스-1",
+    "name": "건희 소스 1",
+    "keyword": "달콤",
+    "viewCount": 135979,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "땅콩소스",
+        "amount": "1",
+        "raw": "땅콩소스 1"
+      },
+      {
+        "name": "칠리소스",
+        "amount": "2.5",
+        "raw": "칠리소스 2.5"
+      },
+      {
+        "name": "마늘",
+        "amount": "0.5",
+        "raw": "마늘 0.5"
+      },
+      {
+        "name": "다진 파",
+        "amount": "0.5",
+        "raw": "다진 파 0.5"
+      },
+      {
+        "name": "깨",
+        "amount": "1",
+        "raw": "깨 1"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1",
+        "raw": "땅콩가루 1"
+      },
+      {
+        "name": "설탕",
+        "amount": "0.3",
+        "raw": "설탕 0.3"
+      },
+      {
+        "name": "볶음 소고기장",
+        "amount": "0.5",
+        "raw": "볶음 소고기장 0.5"
+      }
+    ],
+    "ingredientText": [
+      "땅콩소스 1",
+      "칠리소스 2.5",
+      "마늘 0.5",
+      "다진 파 0.5",
+      "깨 1",
+      "땅콩가루 1",
+      "설탕 0.3",
+      "볶음 소고기장 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/xQFmLdcLikOIV9eu6NiN",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "PPLjPjrDC8qSE7z8azvh",
+    "slug": "버논-소스",
+    "name": "버논 소스",
+    "keyword": "매콤",
+    "viewCount": 52742,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "칠리",
+        "amount": "2",
+        "raw": "칠리 2"
+      },
+      {
+        "name": "볶음 소고기장",
+        "amount": "1",
+        "raw": "볶음 소고기장 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1",
+        "raw": "굴소스 1"
+      },
+      {
+        "name": "고추기름",
+        "amount": "1",
+        "raw": "고추기름 1"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "양파",
+        "amount": "2",
+        "raw": "양파 2"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "태국 고추",
+        "amount": "0.5",
+        "raw": "태국 고추 0.5"
+      }
+    ],
+    "ingredientText": [
+      "칠리 2",
+      "볶음 소고기장 1",
+      "굴소스 1",
+      "고추기름 1",
+      "다진 파 1",
+      "양파 2",
+      "마늘 1",
+      "태국 고추 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/PPLjPjrDC8qSE7z8azvh",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "vooA7EQvjZiGumtbnPov",
+    "slug": "머피-소스",
+    "name": "머피 소스",
+    "keyword": "고소",
+    "viewCount": 38020,
+    "ingredientCount": 7,
+    "ingredients": [
+      {
+        "name": "참깨소스",
+        "amount": "1",
+        "raw": "참깨소스 1"
+      },
+      {
+        "name": "참기름",
+        "amount": "2",
+        "raw": "참기름 2"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      },
+      {
+        "name": "쪽파",
+        "amount": "1",
+        "raw": "쪽파 1"
+      },
+      {
+        "name": "고수",
+        "amount": "1",
+        "raw": "고수 1"
+      },
+      {
+        "name": "다진 고추",
+        "amount": "1",
+        "raw": "다진 고추 1"
+      },
+      {
+        "name": "다진 땅콩",
+        "amount": "2",
+        "raw": "다진 땅콩 2"
+      }
+    ],
+    "ingredientText": [
+      "참깨소스 1",
+      "참기름 2",
+      "다진 마늘 1",
+      "쪽파 1",
+      "고수 1",
+      "다진 고추 1",
+      "다진 땅콩 2"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/vooA7EQvjZiGumtbnPov",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "Pn6MplrFEo84unnL0h2l",
+    "slug": "런쥔-소스",
+    "name": "런쥔 소스",
+    "keyword": "매콤",
+    "viewCount": 29730,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "고추",
+        "amount": null,
+        "raw": "고추"
+      },
+      {
+        "name": "파",
+        "amount": null,
+        "raw": "파"
+      },
+      {
+        "name": "마늘",
+        "amount": null,
+        "raw": "마늘"
+      },
+      {
+        "name": "참기름",
+        "amount": null,
+        "raw": "참기름"
+      },
+      {
+        "name": "굴소스",
+        "amount": null,
+        "raw": "굴소스"
+      },
+      {
+        "name": "설탕",
+        "amount": null,
+        "raw": "설탕"
+      }
+    ],
+    "ingredientText": [
+      "고추",
+      "파",
+      "마늘",
+      "참기름",
+      "굴소스",
+      "설탕"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/Pn6MplrFEo84unnL0h2l",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "viC46uNuQMcq0wMi1aL1",
+    "slug": "샤오잔-소스",
+    "name": "샤오잔 소스",
+    "keyword": "매콤",
+    "viewCount": 26538,
+    "ingredientCount": 2,
+    "ingredients": [
+      {
+        "name": "라유",
+        "amount": null,
+        "raw": "라유"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      }
+    ],
+    "ingredientText": [
+      "라유",
+      "다진 마늘 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/viC46uNuQMcq0wMi1aL1",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "Y0UoEJlPgkco1YvD1PcX",
+    "slug": "쑨디-2호-소스",
+    "name": "쑨디 2호 소스",
+    "keyword": "매콤",
+    "viewCount": 25099,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "매운 소고기소스 (건더기만)",
+        "amount": "1/2",
+        "raw": "매운 소고기소스 (건더기만) 1/2"
+      },
+      {
+        "name": "훠궈소스 (건더기만)",
+        "amount": "1/2",
+        "raw": "훠궈소스 (건더기만) 1/2"
+      },
+      {
+        "name": "땅콩",
+        "amount": "1",
+        "raw": "땅콩 1"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "0.5",
+        "raw": "마늘 0.5"
+      },
+      {
+        "name": "칠리소스",
+        "amount": "0.5",
+        "raw": "칠리소스 0.5"
+      },
+      {
+        "name": "굴소스",
+        "amount": "0.5",
+        "raw": "굴소스 0.5"
+      },
+      {
+        "name": "참깨소스",
+        "amount": "0.25",
+        "raw": "참깨소스 0.25"
+      }
+    ],
+    "ingredientText": [
+      "매운 소고기소스 (건더기만) 1/2",
+      "훠궈소스 (건더기만) 1/2",
+      "땅콩 1",
+      "다진 파 1",
+      "마늘 0.5",
+      "칠리소스 0.5",
+      "굴소스 0.5",
+      "참깨소스 0.25"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/Y0UoEJlPgkco1YvD1PcX",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "5eLzwZtCdlTroutBZqhM",
+    "slug": "건희-소스-2",
+    "name": "건희 소스 2",
+    "keyword": "고소",
+    "viewCount": 18706,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "소금",
+        "amount": "3",
+        "raw": "소금 3"
+      },
+      {
+        "name": "참기름",
+        "amount": "3",
+        "raw": "참기름 3"
+      },
+      {
+        "name": "고추기름",
+        "amount": "0.5",
+        "raw": "고추기름 0.5"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "참깨",
+        "amount": "1",
+        "raw": "참깨 1"
+      },
+      {
+        "name": "고춧가루",
+        "amount": "1",
+        "raw": "고춧가루 1"
+      }
+    ],
+    "ingredientText": [
+      "소금 3",
+      "참기름 3",
+      "고추기름 0.5",
+      "마늘 1",
+      "참깨 1",
+      "고춧가루 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/5eLzwZtCdlTroutBZqhM",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "rNqf25qSvKm5mwxy0pxJ",
+    "slug": "기본-육수-간장-소스",
+    "name": "기본 육수 간장 소스",
+    "keyword": "짭잘",
+    "viewCount": 9740,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "고수",
+        "amount": "많이",
+        "raw": "고수 많이"
+      },
+      {
+        "name": "고추기름",
+        "amount": "1",
+        "raw": "고추기름 1"
+      },
+      {
+        "name": "완자 간장",
+        "amount": "2",
+        "raw": "완자 간장 2"
+      },
+      {
+        "name": "삼선탕 국물",
+        "amount": "1",
+        "raw": "삼선탕 국물 1"
+      }
+    ],
+    "ingredientText": [
+      "파 1",
+      "마늘 1",
+      "고수 많이",
+      "고추기름 1",
+      "완자 간장 2",
+      "삼선탕 국물 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/rNqf25qSvKm5mwxy0pxJ",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "nNEEAkZH25EQpTsVN3Cr",
+    "slug": "블핑-지수-소스",
+    "name": "블핑 지수 소스",
+    "keyword": "매콤",
+    "viewCount": 9377,
+    "ingredientCount": 2,
+    "ingredients": [
+      {
+        "name": "고추 산처럼 쌓기",
+        "amount": null,
+        "raw": "고추 산처럼 쌓기"
+      },
+      {
+        "name": "간장",
+        "amount": "1",
+        "raw": "간장 1"
+      }
+    ],
+    "ingredientText": [
+      "고추 산처럼 쌓기",
+      "간장 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/nNEEAkZH25EQpTsVN3Cr",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "tcWLc9HSxqes7G8ycWTl",
+    "slug": "왕이보-소스-1",
+    "name": "왕이보 소스 1",
+    "keyword": "새콤",
+    "viewCount": 8884,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "고추",
+        "amount": "2",
+        "raw": "고추 2"
+      },
+      {
+        "name": "다진 고수",
+        "amount": null,
+        "raw": "다진 고수"
+      },
+      {
+        "name": "파",
+        "amount": "3",
+        "raw": "파 3"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "0.5",
+        "raw": "다진 마늘 0.5"
+      },
+      {
+        "name": "태국고추",
+        "amount": "0.5",
+        "raw": "태국고추 0.5"
+      },
+      {
+        "name": "흑식초",
+        "amount": "3",
+        "raw": "흑식초 3"
+      }
+    ],
+    "ingredientText": [
+      "고추 2",
+      "다진 고수",
+      "파 3",
+      "다진 마늘 0.5",
+      "태국고추 0.5",
+      "흑식초 3"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/tcWLc9HSxqes7G8ycWTl",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "8hC3kc07UlECsmjOVAko",
+    "slug": "천러-소스",
+    "name": "천러 소스",
+    "keyword": "짭잘",
+    "viewCount": 8236,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "고수",
+        "amount": null,
+        "raw": "고수"
+      },
+      {
+        "name": "간장",
+        "amount": "1.5",
+        "raw": "간장 1.5"
+      },
+      {
+        "name": "마늘",
+        "amount": "0.5",
+        "raw": "마늘 0.5"
+      },
+      {
+        "name": "참기름",
+        "amount": "2",
+        "raw": "참기름 2"
+      }
+    ],
+    "ingredientText": [
+      "파 1",
+      "고수",
+      "간장 1.5",
+      "마늘 0.5",
+      "참기름 2"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/8hC3kc07UlECsmjOVAko",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "j6awe7dQlfyImdD7mGE4",
+    "slug": "시즈니-소스",
+    "name": "시즈니 소스",
+    "keyword": "고소",
+    "viewCount": 7968,
+    "ingredientCount": 9,
+    "ingredients": [
+      {
+        "name": "칠리",
+        "amount": "2",
+        "raw": "칠리 2"
+      },
+      {
+        "name": "참깨소스",
+        "amount": "1",
+        "raw": "참깨소스 1"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1",
+        "raw": "오향우육 1"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1/3",
+        "raw": "땅콩가루 1/3"
+      },
+      {
+        "name": "다진파",
+        "amount": "0.5",
+        "raw": "다진파 0.5"
+      },
+      {
+        "name": "매운 소고기 소스",
+        "amount": "1",
+        "raw": "매운 소고기 소스 1"
+      },
+      {
+        "name": "양념 고춧가루",
+        "amount": "2/3",
+        "raw": "양념 고춧가루 2/3"
+      },
+      {
+        "name": "고추기름",
+        "amount": "0.5",
+        "raw": "고추기름 0.5"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1/3",
+        "raw": "다진 마늘 1/3"
+      }
+    ],
+    "ingredientText": [
+      "칠리 2",
+      "참깨소스 1",
+      "오향우육 1",
+      "땅콩가루 1/3",
+      "다진파 0.5",
+      "매운 소고기 소스 1",
+      "양념 고춧가루 2/3",
+      "고추기름 0.5",
+      "다진 마늘 1/3"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/j6awe7dQlfyImdD7mGE4",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "YVyJEHE5lSoVcLhVhrD1",
+    "slug": "영훈-소스",
+    "name": "영훈 소스",
+    "keyword": "달콤",
+    "viewCount": 5625,
+    "ingredientCount": 10,
+    "ingredients": [
+      {
+        "name": "참깨소스",
+        "amount": "2",
+        "raw": "참깨소스 2"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1",
+        "raw": "굴소스 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "0.5",
+        "raw": "마늘 0.5"
+      },
+      {
+        "name": "다진 파",
+        "amount": "0.5",
+        "raw": "다진 파 0.5"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1",
+        "raw": "땅콩가루 1"
+      },
+      {
+        "name": "볶음 소고기장",
+        "amount": "1",
+        "raw": "볶음 소고기장 1"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1",
+        "raw": "오향우육 1"
+      },
+      {
+        "name": "설탕",
+        "amount": "0.5",
+        "raw": "설탕 0.5"
+      },
+      {
+        "name": "참기름",
+        "amount": "0.5",
+        "raw": "참기름 0.5"
+      },
+      {
+        "name": "고춧가루",
+        "amount": "1/3",
+        "raw": "고춧가루 1/3"
+      }
+    ],
+    "ingredientText": [
+      "참깨소스 2",
+      "굴소스 1",
+      "마늘 0.5",
+      "다진 파 0.5",
+      "땅콩가루 1",
+      "볶음 소고기장 1",
+      "오향우육 1",
+      "설탕 0.5",
+      "참기름 0.5",
+      "고춧가루 1/3"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/YVyJEHE5lSoVcLhVhrD1",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "KCYPYF0nMjxsjYI1fh66",
+    "slug": "정우혜-소스",
+    "name": "정우혜 소스",
+    "keyword": "짭잘",
+    "viewCount": 5450,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "굴소스",
+        "amount": "2",
+        "raw": "굴소스 2"
+      },
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "다진 고추",
+        "amount": "1",
+        "raw": "다진 고추 1"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      }
+    ],
+    "ingredientText": [
+      "굴소스 2",
+      "참기름 1",
+      "다진 파 1",
+      "다진 고추 1",
+      "다진 마늘 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/KCYPYF0nMjxsjYI1fh66",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "rGn8o38iYRuOiEzRDYK6",
+    "slug": "소피-소스",
+    "name": "소피 소스",
+    "keyword": "짭잘",
+    "viewCount": 4192,
+    "ingredientCount": 7,
+    "ingredients": [
+      {
+        "name": "땅콩소스",
+        "amount": "1",
+        "raw": "땅콩소스 1"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1",
+        "raw": "굴소스 1"
+      },
+      {
+        "name": "매운 소고기 소스",
+        "amount": "1",
+        "raw": "매운 소고기 소스 1"
+      },
+      {
+        "name": "청유마라훠궈소스",
+        "amount": "1",
+        "raw": "청유마라훠궈소스 1"
+      },
+      {
+        "name": "고수",
+        "amount": "1",
+        "raw": "고수 1"
+      }
+    ],
+    "ingredientText": [
+      "땅콩소스 1",
+      "다진 마늘 1",
+      "다진 파 1",
+      "굴소스 1",
+      "매운 소고기 소스 1",
+      "청유마라훠궈소스 1",
+      "고수 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/rGn8o38iYRuOiEzRDYK6",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "BNIquLP7qHvu5bdVNW3u",
+    "slug": "준휘-소스",
+    "name": "준휘 소스",
+    "keyword": "고소",
+    "viewCount": 3785,
+    "ingredientCount": 4,
+    "ingredients": [
+      {
+        "name": "마장 소스",
+        "amount": "3",
+        "raw": "마장 소스 3"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      },
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      }
+    ],
+    "ingredientText": [
+      "마장 소스 3",
+      "다진 파 1",
+      "다진 마늘 1",
+      "참기름 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/BNIquLP7qHvu5bdVNW3u",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "iLHb03xXYn47SLHYNY8m",
+    "slug": "우기-소스",
+    "name": "우기 소스",
+    "keyword": "새콤",
+    "viewCount": 3706,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "마장 소스",
+        "amount": "1",
+        "raw": "마장 소스 1"
+      },
+      {
+        "name": "고수",
+        "amount": "1",
+        "raw": "고수 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "중국식초",
+        "amount": "많이",
+        "raw": "중국식초 많이"
+      },
+      {
+        "name": "땅콩 가루",
+        "amount": "0.5",
+        "raw": "땅콩 가루 0.5"
+      }
+    ],
+    "ingredientText": [
+      "마장 소스 1",
+      "고수 1",
+      "파 1",
+      "중국식초 많이",
+      "땅콩 가루 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/iLHb03xXYn47SLHYNY8m",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "ENG14A0nIl0F4peWjfrg",
+    "slug": "훠궈왕자-소스",
+    "name": "훠궈왕자 소스",
+    "keyword": "달콤",
+    "viewCount": 3503,
+    "ingredientCount": 7,
+    "ingredients": [
+      {
+        "name": "땅콩소스",
+        "amount": "1",
+        "raw": "땅콩소스 1"
+      },
+      {
+        "name": "칠리소스",
+        "amount": "2.5",
+        "raw": "칠리소스 2.5"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      },
+      {
+        "name": "설탕",
+        "amount": "0.5",
+        "raw": "설탕 0.5"
+      },
+      {
+        "name": "고추기름",
+        "amount": "0.5",
+        "raw": "고추기름 0.5"
+      },
+      {
+        "name": "다진 소고기장",
+        "amount": "0.5",
+        "raw": "다진 소고기장 0.5"
+      },
+      {
+        "name": "마늘",
+        "amount": "0.5",
+        "raw": "마늘 0.5"
+      }
+    ],
+    "ingredientText": [
+      "땅콩소스 1",
+      "칠리소스 2.5",
+      "다진 파 1",
+      "설탕 0.5",
+      "고추기름 0.5",
+      "다진 소고기장 0.5",
+      "마늘 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/ENG14A0nIl0F4peWjfrg",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "0TuSMInNFNUx2n5F0zec",
+    "slug": "메이비-소스",
+    "name": "메이비 소스",
+    "keyword": "달콤",
+    "viewCount": 3439,
+    "ingredientCount": 9,
+    "ingredients": [
+      {
+        "name": "칠리소스",
+        "amount": "2",
+        "raw": "칠리소스 2"
+      },
+      {
+        "name": "참깨소스",
+        "amount": "0.8",
+        "raw": "참깨소스 0.8"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1",
+        "raw": "오향우육 1"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "0.3",
+        "raw": "땅콩가루 0.3"
+      },
+      {
+        "name": "다진 파",
+        "amount": "0.5",
+        "raw": "다진 파 0.5"
+      },
+      {
+        "name": "매운 소고기 소스",
+        "amount": "1",
+        "raw": "매운 소고기 소스 1"
+      },
+      {
+        "name": "양념 고춧가루",
+        "amount": "0.6",
+        "raw": "양념 고춧가루 0.6"
+      },
+      {
+        "name": "고추 기름 (기름만)",
+        "amount": "0.5",
+        "raw": "고추 기름 (기름만) 0.5"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "0.3",
+        "raw": "다진 마늘 0.3"
+      }
+    ],
+    "ingredientText": [
+      "칠리소스 2",
+      "참깨소스 0.8",
+      "오향우육 1",
+      "땅콩가루 0.3",
+      "다진 파 0.5",
+      "매운 소고기 소스 1",
+      "양념 고춧가루 0.6",
+      "고추 기름 (기름만) 0.5",
+      "다진 마늘 0.3"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/0TuSMInNFNUx2n5F0zec",
+    "collectedAt": "2026-05-03T20:28:05.248Z"
+  },
+  {
+    "id": "jIMP0qOHhCrNzGj2SReD",
+    "slug": "리우예-소스",
+    "name": "리우예 소스",
+    "keyword": "달콤",
+    "viewCount": 2859,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "고춧가루",
+        "amount": null,
+        "raw": "고춧가루"
+      },
+      {
+        "name": "다진 고수",
+        "amount": null,
+        "raw": "다진 고수"
+      },
+      {
+        "name": "산초 가루",
+        "amount": null,
+        "raw": "산초 가루"
+      },
+      {
+        "name": "설탕",
+        "amount": "많이",
+        "raw": "설탕 많이"
+      },
+      {
+        "name": "땅콩 가루",
+        "amount": null,
+        "raw": "땅콩 가루"
+      },
+      {
+        "name": "깨",
+        "amount": null,
+        "raw": "깨"
+      }
+    ],
+    "ingredientText": [
+      "고춧가루",
+      "다진 고수",
+      "산초 가루",
+      "설탕 많이",
+      "땅콩 가루",
+      "깨"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/jIMP0qOHhCrNzGj2SReD",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "HridRg8LQQysIBAGPhSw",
+    "slug": "예나-소스",
+    "name": "예나 소스",
+    "keyword": "매콤",
+    "viewCount": 2800,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "땅콩소스",
+        "amount": "1",
+        "raw": "땅콩소스 1"
+      },
+      {
+        "name": "스위트칠리",
+        "amount": "3",
+        "raw": "스위트칠리 3"
+      },
+      {
+        "name": "고추기름 (기름만)",
+        "amount": "3~4 방울",
+        "raw": "고추기름 (기름만) 3~4 방울"
+      },
+      {
+        "name": "매콤소고기 소스",
+        "amount": "0.5",
+        "raw": "매콤소고기 소스 0.5"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "0.5",
+        "raw": "다진 마늘 0.5"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "양파",
+        "amount": "1",
+        "raw": "양파 1"
+      },
+      {
+        "name": "설탕",
+        "amount": "0.5",
+        "raw": "설탕 0.5"
+      }
+    ],
+    "ingredientText": [
+      "땅콩소스 1",
+      "스위트칠리 3",
+      "고추기름 (기름만) 3~4 방울",
+      "매콤소고기 소스 0.5",
+      "다진 마늘 0.5",
+      "파 1",
+      "양파 1",
+      "설탕 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/HridRg8LQQysIBAGPhSw",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "2MiyaLkNJzWZXVpRg471",
+    "slug": "시우민-소스",
+    "name": "시우민 소스",
+    "keyword": "매콤",
+    "viewCount": 2636,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "참깨소스",
+        "amount": "1",
+        "raw": "참깨소스 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1",
+        "raw": "땅콩가루 1"
+      },
+      {
+        "name": "홍탕국물(홍탕기름포함)",
+        "amount": null,
+        "raw": "홍탕국물(홍탕기름포함)"
+      }
+    ],
+    "ingredientText": [
+      "참깨소스 1",
+      "마늘 1",
+      "파 1",
+      "땅콩가루 1",
+      "홍탕국물(홍탕기름포함)"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/2MiyaLkNJzWZXVpRg471",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "UtNFLQfDV8APCh695HkS",
+    "slug": "살구-소스-2",
+    "name": "살구 소스 2",
+    "keyword": "매콤",
+    "viewCount": 2027,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "참깨소스",
+        "amount": "1.5",
+        "raw": "참깨소스 1.5"
+      },
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "고추기름",
+        "amount": "2",
+        "raw": "고추기름 2"
+      },
+      {
+        "name": "청유훠궈소스",
+        "amount": "1",
+        "raw": "청유훠궈소스 1"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "0.5",
+        "raw": "다진 마늘 0.5"
+      },
+      {
+        "name": "매운 소고기",
+        "amount": "0.5",
+        "raw": "매운 소고기 0.5"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1",
+        "raw": "땅콩가루 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      }
+    ],
+    "ingredientText": [
+      "참깨소스 1.5",
+      "참기름 1",
+      "고추기름 2",
+      "청유훠궈소스 1",
+      "다진 마늘 0.5",
+      "매운 소고기 0.5",
+      "땅콩가루 1",
+      "파 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/UtNFLQfDV8APCh695HkS",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "cRRK4yyXugwfePWuklFJ",
+    "slug": "왕이보-소스-2",
+    "name": "왕이보 소스 2",
+    "keyword": "고소",
+    "viewCount": 1997,
+    "ingredientCount": 2,
+    "ingredients": [
+      {
+        "name": "참깨소스",
+        "amount": null,
+        "raw": "참깨소스"
+      },
+      {
+        "name": "고수",
+        "amount": null,
+        "raw": "고수"
+      }
+    ],
+    "ingredientText": [
+      "참깨소스",
+      "고수"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/cRRK4yyXugwfePWuklFJ",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "4XV8bwL2gYhdS0YeRAGg",
+    "slug": "적소문-소스",
+    "name": "적소문 소스",
+    "keyword": "짭잘",
+    "viewCount": 1634,
+    "ingredientCount": 7,
+    "ingredients": [
+      {
+        "name": "다진 마늘",
+        "amount": "0.5",
+        "raw": "다진 마늘 0.5"
+      },
+      {
+        "name": "땅콩 부스러기",
+        "amount": "1",
+        "raw": "땅콩 부스러기 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "많이",
+        "raw": "굴소스 많이"
+      },
+      {
+        "name": "식초",
+        "amount": "1",
+        "raw": "식초 1"
+      },
+      {
+        "name": "고수 (또는 파)",
+        "amount": "많이",
+        "raw": "고수 (또는 파) 많이"
+      },
+      {
+        "name": "참기름",
+        "amount": "1/3",
+        "raw": "참기름 1/3"
+      },
+      {
+        "name": "고추기름",
+        "amount": null,
+        "raw": "고추기름"
+      }
+    ],
+    "ingredientText": [
+      "다진 마늘 0.5",
+      "땅콩 부스러기 1",
+      "굴소스 많이",
+      "식초 1",
+      "고수 (또는 파) 많이",
+      "참기름 1/3",
+      "고추기름"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/4XV8bwL2gYhdS0YeRAGg",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "9oOSJwKrH6FuUpFS0Tc5",
+    "slug": "고추기름빵야빵야-소스",
+    "name": "고추기름빵야빵야 소스",
+    "keyword": "짭잘",
+    "viewCount": 1613,
+    "ingredientCount": 10,
+    "ingredients": [
+      {
+        "name": "굴소스",
+        "amount": "1/3",
+        "raw": "굴소스 1/3"
+      },
+      {
+        "name": "고추기름",
+        "amount": "1/2",
+        "raw": "고추기름 1/2"
+      },
+      {
+        "name": "청유훠궈소스",
+        "amount": "1/3",
+        "raw": "청유훠궈소스 1/3"
+      },
+      {
+        "name": "해선장",
+        "amount": "1/3",
+        "raw": "해선장 1/3"
+      },
+      {
+        "name": "참깨소스",
+        "amount": "1/3",
+        "raw": "참깨소스 1/3"
+      },
+      {
+        "name": "매운 소고기장",
+        "amount": "1/3",
+        "raw": "매운 소고기장 1/3"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1/3",
+        "raw": "오향우육 1/3"
+      },
+      {
+        "name": "참기름",
+        "amount": "1/4",
+        "raw": "참기름 1/4"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      },
+      {
+        "name": "다진 파",
+        "amount": "1",
+        "raw": "다진 파 1"
+      }
+    ],
+    "ingredientText": [
+      "굴소스 1/3",
+      "고추기름 1/2",
+      "청유훠궈소스 1/3",
+      "해선장 1/3",
+      "참깨소스 1/3",
+      "매운 소고기장 1/3",
+      "오향우육 1/3",
+      "참기름 1/4",
+      "다진 마늘 1",
+      "다진 파 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/9oOSJwKrH6FuUpFS0Tc5",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "82Yi4Ysry396lDM8jSlR",
+    "slug": "살구-소스-1",
+    "name": "살구 소스 1",
+    "keyword": "달콤",
+    "viewCount": 1593,
+    "ingredientCount": 9,
+    "ingredients": [
+      {
+        "name": "스위트칠리",
+        "amount": "2",
+        "raw": "스위트칠리 2"
+      },
+      {
+        "name": "매운 소고기",
+        "amount": "1",
+        "raw": "매운 소고기 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1",
+        "raw": "굴소스 1"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1",
+        "raw": "다진 마늘 1"
+      },
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "청유훠궈소스",
+        "amount": "1",
+        "raw": "청유훠궈소스 1"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1",
+        "raw": "오향우육 1"
+      },
+      {
+        "name": "땅콩가루",
+        "amount": "1",
+        "raw": "땅콩가루 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      }
+    ],
+    "ingredientText": [
+      "스위트칠리 2",
+      "매운 소고기 1",
+      "굴소스 1",
+      "다진 마늘 1",
+      "참기름 1",
+      "청유훠궈소스 1",
+      "오향우육 1",
+      "땅콩가루 1",
+      "파 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/82Yi4Ysry396lDM8jSlR",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "1UJl7a39QsBKYc4dSHWO",
+    "slug": "라운희-시시-소스",
+    "name": "라운희(시시) 소스",
+    "keyword": "고소",
+    "viewCount": 1524,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "다진마늘",
+        "amount": "1",
+        "raw": "다진마늘 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1/3",
+        "raw": "굴소스 1/3"
+      },
+      {
+        "name": "깨",
+        "amount": "2/3",
+        "raw": "깨 2/3"
+      }
+    ],
+    "ingredientText": [
+      "참기름 1",
+      "다진마늘 1",
+      "파 1",
+      "굴소스 1/3",
+      "깨 2/3"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/1UJl7a39QsBKYc4dSHWO",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "eU5XmHi6ZFe4MllZyTaJ",
+    "slug": "천리농-소스",
+    "name": "천리농 소스",
+    "keyword": "새콤",
+    "viewCount": 1175,
+    "ingredientCount": 7,
+    "ingredients": [
+      {
+        "name": "사차장",
+        "amount": null,
+        "raw": "사차장"
+      },
+      {
+        "name": "계란 노른자",
+        "amount": null,
+        "raw": "계란 노른자"
+      },
+      {
+        "name": "식초",
+        "amount": null,
+        "raw": "식초"
+      },
+      {
+        "name": "간장",
+        "amount": null,
+        "raw": "간장"
+      },
+      {
+        "name": "다진 고추",
+        "amount": null,
+        "raw": "다진 고추"
+      },
+      {
+        "name": "파",
+        "amount": null,
+        "raw": "파"
+      },
+      {
+        "name": "깨",
+        "amount": null,
+        "raw": "깨"
+      }
+    ],
+    "ingredientText": [
+      "사차장",
+      "계란 노른자",
+      "식초",
+      "간장",
+      "다진 고추",
+      "파",
+      "깨"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/eU5XmHi6ZFe4MllZyTaJ",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "9D5jUimg0H7A5CYEFb3R",
+    "slug": "왕탁성-소스",
+    "name": "왕탁성 소스",
+    "keyword": "고소",
+    "viewCount": 927,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1",
+        "raw": "굴소스 1"
+      },
+      {
+        "name": "다진 고수",
+        "amount": "1",
+        "raw": "다진 고수 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "식초",
+        "amount": "1",
+        "raw": "식초 1"
+      }
+    ],
+    "ingredientText": [
+      "참기름 1",
+      "굴소스 1",
+      "다진 고수 1",
+      "마늘 1",
+      "식초 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/9D5jUimg0H7A5CYEFb3R",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "OgIV1cRDfel00FjcMiHx",
+    "slug": "공준-소스",
+    "name": "공준 소스",
+    "keyword": "새콤",
+    "viewCount": 902,
+    "ingredientCount": 8,
+    "ingredients": [
+      {
+        "name": "다진 마늘",
+        "amount": null,
+        "raw": "다진 마늘"
+      },
+      {
+        "name": "굴소스",
+        "amount": null,
+        "raw": "굴소스"
+      },
+      {
+        "name": "매운 고추",
+        "amount": null,
+        "raw": "매운 고추"
+      },
+      {
+        "name": "고수",
+        "amount": null,
+        "raw": "고수"
+      },
+      {
+        "name": "다진 파",
+        "amount": null,
+        "raw": "다진 파"
+      },
+      {
+        "name": "참기름",
+        "amount": null,
+        "raw": "참기름"
+      },
+      {
+        "name": "식초",
+        "amount": null,
+        "raw": "식초"
+      },
+      {
+        "name": "간장",
+        "amount": null,
+        "raw": "간장"
+      }
+    ],
+    "ingredientText": [
+      "다진 마늘",
+      "굴소스",
+      "매운 고추",
+      "고수",
+      "다진 파",
+      "참기름",
+      "식초",
+      "간장"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/OgIV1cRDfel00FjcMiHx",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "F1ZUmAWfaa1xCwpj3HG0",
+    "slug": "주일룡-소스",
+    "name": "주일룡 소스",
+    "keyword": "고소",
+    "viewCount": 854,
+    "ingredientCount": 12,
+    "ingredients": [
+      {
+        "name": "고춧가루",
+        "amount": "3",
+        "raw": "고춧가루 3"
+      },
+      {
+        "name": "참깨",
+        "amount": "1/4",
+        "raw": "참깨 1/4"
+      },
+      {
+        "name": "땅콩",
+        "amount": "1/4",
+        "raw": "땅콩 1/4"
+      },
+      {
+        "name": "식초",
+        "amount": "1/4",
+        "raw": "식초 1/4"
+      },
+      {
+        "name": "후추",
+        "amount": "1/4",
+        "raw": "후추 1/4"
+      },
+      {
+        "name": "설탕",
+        "amount": "1/4",
+        "raw": "설탕 1/4"
+      },
+      {
+        "name": "홍탕",
+        "amount": "3",
+        "raw": "홍탕 3"
+      },
+      {
+        "name": "참기름",
+        "amount": "1",
+        "raw": "참기름 1"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1/2",
+        "raw": "굴소스 1/2"
+      },
+      {
+        "name": "다진 고수",
+        "amount": "1",
+        "raw": "다진 고수 1"
+      },
+      {
+        "name": "마늘",
+        "amount": "1",
+        "raw": "마늘 1"
+      },
+      {
+        "name": "파",
+        "amount": "1",
+        "raw": "파 1"
+      }
+    ],
+    "ingredientText": [
+      "고춧가루 3",
+      "참깨 1/4",
+      "땅콩 1/4",
+      "식초 1/4",
+      "후추 1/4",
+      "설탕 1/4",
+      "홍탕 3",
+      "참기름 1",
+      "굴소스 1/2",
+      "다진 고수 1",
+      "마늘 1",
+      "파 1"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/F1ZUmAWfaa1xCwpj3HG0",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "RbCio340LZrkmNu4JcUl",
+    "slug": "코트-소스",
+    "name": "코트 소스",
+    "keyword": "달콤",
+    "viewCount": 806,
+    "ingredientCount": 6,
+    "ingredients": [
+      {
+        "name": "땅콩 소스",
+        "amount": "2",
+        "raw": "땅콩 소스 2"
+      },
+      {
+        "name": "설탕",
+        "amount": "1",
+        "raw": "설탕 1"
+      },
+      {
+        "name": "칠리소스",
+        "amount": "1",
+        "raw": "칠리소스 1"
+      },
+      {
+        "name": "간장",
+        "amount": "1",
+        "raw": "간장 1"
+      },
+      {
+        "name": "식초",
+        "amount": "0.5",
+        "raw": "식초 0.5"
+      },
+      {
+        "name": "참기름",
+        "amount": "0.5",
+        "raw": "참기름 0.5"
+      }
+    ],
+    "ingredientText": [
+      "땅콩 소스 2",
+      "설탕 1",
+      "칠리소스 1",
+      "간장 1",
+      "식초 0.5",
+      "참기름 0.5"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/RbCio340LZrkmNu4JcUl",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "BiwEcZNn7cy34F4J1TRd",
+    "slug": "기범소스-홍탕용",
+    "name": "기범소스 홍탕용",
+    "keyword": "고소",
+    "viewCount": 114,
+    "ingredientCount": 5,
+    "ingredients": [
+      {
+        "name": "땅콩 참깨소스 1국자 +",
+        "amount": "1/3 국자",
+        "raw": "땅콩 참깨소스 1국자 + 1/3 국자"
+      },
+      {
+        "name": "다진파",
+        "amount": "2집게",
+        "raw": "다진파 2집게"
+      },
+      {
+        "name": "오향우육",
+        "amount": "1숟가락",
+        "raw": "오향우육 1숟가락"
+      },
+      {
+        "name": "다진 땅콩",
+        "amount": "1숟가락",
+        "raw": "다진 땅콩 1숟가락"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1숟가락",
+        "raw": "다진 마늘 1숟가락"
+      }
+    ],
+    "ingredientText": [
+      "땅콩 참깨소스 1국자 + 1/3 국자",
+      "다진파 2집게",
+      "오향우육 1숟가락",
+      "다진 땅콩 1숟가락",
+      "다진 마늘 1숟가락"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/BiwEcZNn7cy34F4J1TRd",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  },
+  {
+    "id": "jwG5QvtgQt0InhU97fsL",
+    "slug": "기범소스-백탕용",
+    "name": "기범소스 백탕용",
+    "keyword": "매콤",
+    "viewCount": 100,
+    "ingredientCount": 9,
+    "ingredients": [
+      {
+        "name": "다진 파",
+        "amount": "2집게",
+        "raw": "다진 파 2집게"
+      },
+      {
+        "name": "오향우육",
+        "amount": "2숟가락",
+        "raw": "오향우육 2숟가락"
+      },
+      {
+        "name": "스위트칠리소스",
+        "amount": "2국자",
+        "raw": "스위트칠리소스 2국자"
+      },
+      {
+        "name": "간장소스",
+        "amount": "2/3국자",
+        "raw": "간장소스 2/3국자"
+      },
+      {
+        "name": "다진 마늘",
+        "amount": "1숟가락",
+        "raw": "다진 마늘 1숟가락"
+      },
+      {
+        "name": "청유훠궈소스",
+        "amount": "1숟가락",
+        "raw": "청유훠궈소스 1숟가락"
+      },
+      {
+        "name": "산초기름",
+        "amount": "1숟가락",
+        "raw": "산초기름 1숟가락"
+      },
+      {
+        "name": "굴소스",
+        "amount": "1숟가락",
+        "raw": "굴소스 1숟가락"
+      },
+      {
+        "name": "중국식초",
+        "amount": "1/3국자",
+        "raw": "중국식초 1/3국자"
+      }
+    ],
+    "ingredientText": [
+      "다진 파 2집게",
+      "오향우육 2숟가락",
+      "스위트칠리소스 2국자",
+      "간장소스 2/3국자",
+      "다진 마늘 1숟가락",
+      "청유훠궈소스 1숟가락",
+      "산초기름 1숟가락",
+      "굴소스 1숟가락",
+      "중국식초 1/3국자"
+    ],
+    "sourceUrl": "https://twitter-michelin.web.app/hotpot/detail/jwG5QvtgQt0InhU97fsL",
+    "collectedAt": "2026-05-03T20:28:05.249Z"
+  }
+]
