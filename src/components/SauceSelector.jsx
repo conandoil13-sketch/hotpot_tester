@@ -18,6 +18,8 @@ function SauceSelector({
 }) {
   const [wantsSauce, setWantsSauce] = useState(selectedSauceIds.length > 0 ? 'yes' : '');
   const [activeKeyword, setActiveKeyword] = useState('all');
+  const [expandedSauceIds, setExpandedSauceIds] = useState([]);
+  const [checkedIngredientsBySauce, setCheckedIngredientsBySauce] = useState({});
 
   const keywords = useMemo(() => {
     return ['all', ...new Set(sauces.map((sauce) => sauce.keyword).filter(Boolean))];
@@ -48,6 +50,28 @@ function SauceSelector({
     }
 
     onSelectSauces([...selectedSauceIds, sauceId]);
+  };
+
+  const handleToggleExpanded = (sauceId) => {
+    setExpandedSauceIds((currentIds) =>
+      currentIds.includes(sauceId)
+        ? currentIds.filter((id) => id !== sauceId)
+        : [...currentIds, sauceId],
+    );
+  };
+
+  const handleToggleIngredient = (sauceId, ingredientRaw) => {
+    setCheckedIngredientsBySauce((currentState) => {
+      const currentChecked = currentState[sauceId] ?? [];
+      const nextChecked = currentChecked.includes(ingredientRaw)
+        ? currentChecked.filter((item) => item !== ingredientRaw)
+        : [...currentChecked, ingredientRaw];
+
+      return {
+        ...currentState,
+        [sauceId]: nextChecked,
+      };
+    });
   };
 
   return (
@@ -107,17 +131,31 @@ function SauceSelector({
             {filteredSauces.map((sauce) => {
               const isSelected = selectedSauceIds.includes(sauce.id);
               const isDisabled = !isSelected && selectedSauceIds.length >= peopleCount;
+              const isExpanded = expandedSauceIds.includes(sauce.id);
+              const checkedIngredients = checkedIngredientsBySauce[sauce.id] ?? [];
 
               return (
-                <button
+                <article
                   key={sauce.id}
                   className={`sauce-card ${isSelected ? 'is-selected' : ''} ${isDisabled ? 'is-disabled' : ''}`}
-                  type="button"
-                  onClick={() => handleToggleSauce(sauce.id)}
                 >
                   <div className="sauce-card-top">
-                    <strong>{sauce.name}</strong>
-                    <span>{isSelected ? '선택됨' : isDisabled ? '선택 마감' : '선택 가능'}</span>
+                    <button
+                      className="sauce-select-button"
+                      type="button"
+                      onClick={() => handleToggleSauce(sauce.id)}
+                      disabled={isDisabled}
+                    >
+                      <strong>{sauce.name}</strong>
+                      <span>{isSelected ? '선택됨' : isDisabled ? '선택 마감' : '선택 가능'}</span>
+                    </button>
+                    <button
+                      className="sauce-expand-button"
+                      type="button"
+                      onClick={() => handleToggleExpanded(sauce.id)}
+                    >
+                      {isExpanded ? '접기' : '레시피 전체'}
+                    </button>
                   </div>
                   <p>
                     #{KEYWORD_LABELS[sauce.keyword] ?? sauce.keyword} · 재료 {sauce.ingredientCount}개
@@ -129,7 +167,36 @@ function SauceSelector({
                       </span>
                     ))}
                   </div>
-                </button>
+
+                  {isExpanded ? (
+                    <div className="sauce-recipe-panel">
+                      <div className="sauce-recipe-header">
+                        <strong>전체 레시피 체크</strong>
+                        <span>{checkedIngredients.length}/{sauce.ingredients.length} 체크됨</span>
+                      </div>
+
+                      <div className="sauce-recipe-list">
+                        {sauce.ingredients.map((ingredient) => {
+                          const isChecked = checkedIngredients.includes(ingredient.raw);
+
+                          return (
+                            <label
+                              key={`${sauce.id}-${ingredient.raw}-checkbox`}
+                              className={`sauce-recipe-item ${isChecked ? 'is-checked' : ''}`}
+                            >
+                              <input
+                                type="checkbox"
+                                checked={isChecked}
+                                onChange={() => handleToggleIngredient(sauce.id, ingredient.raw)}
+                              />
+                              <span>{ingredient.raw}</span>
+                            </label>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  ) : null}
+                </article>
               );
             })}
           </div>
